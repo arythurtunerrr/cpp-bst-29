@@ -1,2 +1,4 @@
-# cpp-bst-29
+# Cpp Bst 29
+
 Node insertion and traversal operations in C++.
+
